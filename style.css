@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Arial', sans-serif;
   /* Fondo degradado: rojo apagado hacia gris oscuro */
-  background: linear-gradient(180deg, #3c0000, #1a1a1a, #0d0d0d);
+  background: linear-gradient(181deg, #3c0000, #1a1a1a, #0d0d0d);
   color: #f0f0f0;
 }
 
